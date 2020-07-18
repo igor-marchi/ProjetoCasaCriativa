@@ -37,3 +37,5 @@ $ npm install
 ```
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/IgorMarchi/ProjetoCasaCriativa/blob/master/LICENSE) for more information.
+
+With ❤ [Igor Marchi](https://www.linkedin.com/in/igor-marchi/) :laughing:
