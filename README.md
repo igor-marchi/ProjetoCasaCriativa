@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <img alt="App Demo" src="public/gitHub/home.gif">
+  <img alt="App Demo" src="/public/gitHub/home.gif">
 </p>
 
 ## :rocket: Technologies
